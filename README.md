@@ -1,11 +1,10 @@
 # data structure
 
-X_train, X_test, consist of 3D fMRI volumes y_train, y_test are the
-labels used for training and testing.
+"X_train", "X_test", consist of 3D fMRI volumes 
+"y_train", "y_test" are the labels used for training and testing.
 
-X_train contains a total of 740 3D fMRI volumes, from the first 4 runs
-of all subjects X_test contains a total of 185 3D fMRI volumes, from the
-5th run of all subjects
+"X_train" contains a total of 740 3D fMRI volumes, from the first 4 runs of all subjects 
+"X_test" contains a total of 185 3D fMRI volumes, from the 5th run of all subjects
 
 # downloading dataset into drive
 In order to use the dataset [1] in colab, we decided to store the relatively small dataset in google drive.
