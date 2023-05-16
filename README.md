@@ -7,11 +7,11 @@ X_train contains a total of 740 3D fMRI volumes, from the first 4 runs
 of all subjects X_test contains a total of 185 3D fMRI volumes, from the
 5th run of all subjects
 
-# downloading dataset into drive In order to use the dataset \[1\] in
-colab, we decided to store the relatively small dataset in google drive.
+# downloading dataset into drive
+In order to use the dataset [1] in colab, we decided to store the relatively small dataset in google drive.
 download dataset from :
-https://openneuro.org/datasets/ds003548/versions/1.0.0 upload the
-dataset into google drive such that the following filepath looks like:
+https://openneuro.org/datasets/ds003548/versions/1.0.0 
+upload the dataset into google drive such that the following filepath looks like:
 /content/MyDrive/Me/Images/ds003548
 
 ## Running Code
