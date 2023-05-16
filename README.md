@@ -17,7 +17,7 @@ upload the dataset into google drive such that the following filepath looks like
 
 The colab is separated into multiple sections. To run the colab, after
 downloading the data, simply run sections: \"import\", \"data\", \"train
-test split \"and \"Pytorch model\". Do note that the runtime required is
+test split \", \"processing\" and \"Pytorch model\". Do note that the runtime required is
 quite long.
 
 ## References 
