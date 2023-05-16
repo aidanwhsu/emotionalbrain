@@ -21,6 +21,7 @@ downloading the data, simply run sections: \"import\", \"data\", \"train
 test split \"and \"Pytorch model\". Do note that the runtime required is
 quite long.
 
-## References \[1\] David, Olalde-Mathieu et al. Emotion Category and
+## References 
+[1] David, Olalde-Mathieu et al. Emotion Category and
 Face Perception Task Optimized for Multivariate Pattern Analysis.
 OpenNeuro. \[Dataset\] doi: 10.18112/openneuro.ds003548.v1.0.1
